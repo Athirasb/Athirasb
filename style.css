@@ -1,0 +1,114 @@
+nav ul{
+	display: flex;
+	list-style-type: none ;
+	color: #909497;
+	flex-direction: row-reverse;
+    font-size: 30px;
+	margin: 10px;
+}
+li{
+	padding: 20px;
+}
+#h1{
+	margin-left: 0px;
+	font-family: algerian;
+	font-size: 60px;
+	color: blueviolet;
+	text-align:left;
+}
+#h2{
+	font-size: 20;
+	font-family:Algerian;
+	margin: 20px;
+	color: blueviolet;
+	text-align: center;
+}
+div{
+	border: 2px solid gray;
+	width: 1000px;
+	height: 800px;
+	background-color: black;
+	background-image: url(images/pic.jpg);
+
+}
+#div{
+	justify-content: center;
+	display:flex ;
+	align-items: flex-center;
+
+}
+img{
+	width: 250px;
+	height: 270px;
+	margin-left: 60%;
+	margin-top: 100px;
+}
+#btn{
+	padding: 10px;
+	margin-left: 100px;
+	border: 3px solid #E8166C;
+	border-radius: 10px;
+	font-size: 20px;
+	background-color: black;
+}
+td{
+	color: green;
+	font-family: algerian;
+	margin-left: 40px;
+}
+#about{
+	font-size: 45px;
+	text-align: center;
+}
+#soft{
+	font-size: 25px;
+	color: #E8166C;
+}
+#skill{
+	color: white;
+	font-size: 25px;
+	font-family: arial;
+}
+#skills{
+	color: #4888F1 ;
+	font-size: 20px;
+	font-family: arial;
+	text-align: left;
+}
+#contact{
+	height: 400px;
+}
+#a{
+	text-decoration: none;
+	color: #E8166C;
+}
+#contactme{
+	margin-left: 70px;
+	font-size: 45px;
+</html>
+}
+#qualification{
+	margin-left: 70px;
+	font-size: 45px;
+
+}
+a{
+	color: #909497;
+	text-decoration: none;
+}
+#s{
+	margin-left: 70px;
+	font-size: 45px;
+}
+#education{
+	height: 560px;
+}
+body{
+	background-image: url(images/pic5.jpg);
+	width: 100%;
+}
+p{
+	padding-left: 40px;
+	padding-right: 40px;
+	text-align: justify;
+}
